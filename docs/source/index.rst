@@ -3,11 +3,6 @@ Welcome to InsideFPV's documentation!
 
 **STM-32 Flight Controller** is a Stm32f411ceu6 based flight controller.
 
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
