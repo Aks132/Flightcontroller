@@ -1,8 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to InsideFPV's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**STM-32 Flight Controller** is a Stm32f411ceu6 based flight controller.
+
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
